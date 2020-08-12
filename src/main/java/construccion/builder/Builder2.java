@@ -1,4 +1,4 @@
-package construccion;
+package construccion.builder;
 
 class Person {
     public String name;

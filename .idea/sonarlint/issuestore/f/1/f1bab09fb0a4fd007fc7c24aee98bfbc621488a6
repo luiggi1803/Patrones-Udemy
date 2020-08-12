@@ -1,0 +1,23 @@
+
+b	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Æñ´Ó8íÅ‰…¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Šñúÿÿÿÿ8¾éÄ„¾.
+H
+java:S1481R"&Remove this unused "s" local variable.(³³²ºûÿÿÿÿ8ĞÊ…¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‡ëñıÿÿÿÿ8ğÅ„¾.
+H
+java:S1481T"+Remove this unused "amount" local variable.(øª –8ˆ¬…¾.
+c
+java:S1128"ARemove this unused import 'com.google.common.reflect.Reflection'.(¡­îÓüÿÿÿÿ8˜‘ö„¾.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(«—ì£8½ÜÍ…¾.
+j
+java:S1128"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ8íÅ‰…¾.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ş‘ûƒ8ºêŸ…¾.
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ãÜõøÿÿÿÿ8êÿ…¾.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(š•©äıÿÿÿÿ8Ë­Õ„¾.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Û‡¢È8‡™Ü„¾.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÿ£îüûÿÿÿÿ8˜ß‘…¾.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(ƒÓ„§8ª™…¾.
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(êÍÆá8İ©º…¾.
+Q
+java:S1128"4Remove this unused import 'sun.security.util.Cache'.(Ş‘ûƒ8ºêŸ…¾.

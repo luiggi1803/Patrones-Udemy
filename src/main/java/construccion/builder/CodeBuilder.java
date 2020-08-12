@@ -1,4 +1,4 @@
-package construccion;
+package construccion.builder;
 
 import java.util.ArrayList;
 import java.util.List;
