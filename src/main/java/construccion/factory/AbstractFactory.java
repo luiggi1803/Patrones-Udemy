@@ -15,6 +15,10 @@ interface HotDrink {
     public void consume();
 }
 
+interface HotDrinkFactory {
+    public HotDrink prepared(int amount);
+}
+
 class Tea implements HotDrink {
 
     @Override
@@ -29,11 +33,6 @@ class Coffee implements HotDrink {
     public void consume() {
         System.out.println("This Coffee is delicious");
     }
-}
-
-
-interface HotDrinkFactory {
-    public HotDrink prepared(int amount);
 }
 
 class TeaFactory implements HotDrinkFactory {

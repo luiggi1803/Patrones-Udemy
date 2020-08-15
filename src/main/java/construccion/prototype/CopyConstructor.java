@@ -55,7 +55,7 @@ public class CopyConstructor {
 
 
         Employee chris = new Employee(luiggi);
-        chris.name="Chris";
+        chris.name = "Chris";
 
         System.out.println(luiggi.toString());
         System.out.println(chris.toString());

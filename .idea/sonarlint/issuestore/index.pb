@@ -23,3 +23,17 @@ e
 5src/main/java/construccion/factory/FactoryMethod.java,2\2\22a4b3a61edf85b7c11b32758260f6727faa26af
 g
 7src/main/java/construccion/factory/AbstractFactory.java,f\1\f1bab09fb0a4fd007fc7c24aee98bfbc621488a6
+V
+&src/test/java/Builder/CodeBuilder.java,6\2\6253deed512e1b85f454a83014175dcb15d98190
+X
+(src/test/java/Factory/PersonFactory.java,c\5\c5f327a63736238d0f6e2dee260ccb55d90f36b6
+S
+#src/test/java/Factory/Evaluate.java,f\2\f244c3e11db9f642ca29f938f71a69a1489895f5
+R
+"src/test/java/Prototype/Point.java,b\0\b0ed48bc4a0558b8acf0681d7f681a0fafcf6aa7
+U
+%src/test/java/Prototype/Evaluate.java,0\8\08c7dde6ce1d934d06a478837ef6d7a5b87944fd
+j
+:src/main/java/construccion/prototype/CopySerializable.java,5\6\56f3cebdc0b787c9eb3490a33c217190a56df291
+i
+9src/main/java/construccion/prototype/CopyConstructor.java,e\0\e07dc2d4983e8646732acfa90dd40830fa81170b
