@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼½‚Ñüÿÿÿÿ8÷²ùÿ¾.
+Y
+java:S1854 "=Remove this useless assignment to local variable "singleton".(’£½8©ı•€¿.
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(àï8²‹ıÿ¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßÙşüÿÿÿÿ8“û‰€¿.
+J
+java:S1481 ".Remove this unused "singleton" local variable.(’£½8Ãéš€¿.

@@ -1,8 +1,8 @@
 
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(òüŸÍúÿÿÿÿ8ü¬®¾.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ôŸæÙ8íï®¾.
 s
 java:S1104
 "QMake stuff a static final constant or non-public and provide accessors if needed.(÷àÕ¢şÿÿÿÿ8­ª†®¾.
 q
 java:S1104"TMake whatever a static final constant or non-public and provide accessors if needed.(…©ÚÙ8ƒ‡®¾.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(ôŸæÙ8íï®¾.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(òüŸÍúÿÿÿÿ8ü¬®¾.

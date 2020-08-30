@@ -37,3 +37,9 @@ j
 :src/main/java/construccion/prototype/CopySerializable.java,5\6\56f3cebdc0b787c9eb3490a33c217190a56df291
 i
 9src/main/java/construccion/prototype/CopyConstructor.java,e\0\e07dc2d4983e8646732acfa90dd40830fa81170b
+n
+>src/main/java/construccion/singleton/BlockStaticSingleton.java,c\6\c654d18ed5080617c9fc91125d250c0dbe0b4242
+_
+/src/main/java/construccion/singleton/Basic.java,7\d\7d91ad710d62cc89ec89600c7e7b21b05c653c7c
+k
+;src/main/java/construccion/singleton/LazySingletonDemo.java,e\b\eba724a8441f3bb73118a6289a01de2ea82ae86d
