@@ -1,7 +1,7 @@
 
+X	java:S125"<This block of commented-out lines of code should be removed.(öÒêÎ8±ÑÃ€¿.
 ]
 java:S2094""BRemove this empty class, write its code or make it an "interface".(ëñ­®şÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùóÖëÿÿÿÿÿ8×ª²€¿.
-X	java:S125"<This block of commented-out lines of code should be removed.(öÒêÎ8±ÑÃ€¿.
 [
 java:S2168"9Remove this dangerous instance of double-checked locking.(Ïœø†ıÿÿÿÿ8î©È€¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùóÖëÿÿÿÿÿ8×ª²€¿.

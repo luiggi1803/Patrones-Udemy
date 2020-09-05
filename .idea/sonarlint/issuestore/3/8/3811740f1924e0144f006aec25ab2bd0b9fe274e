@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²Ó×úÿÿÿÿ8ıÀùÄ.
+s
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©ÉÏû8Ò§òÄ.
+>
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8ÀÍöÄ.
+d
+java:S2094B"BRemove this empty class, write its code or make it an "interface".(×§ùÿÿÿÿÿ8¤ÊÆ‚Ä.
+N
+java:S1602 ",Remove useless curly braces around statement(Ùí¿ùÿÿÿÿ8ªÛ‹‚Ä.
+H
+java:S1075"&Remove this hard-coded path-delimiter.(‰ùŸ“üÿÿÿÿ8ô±şÄ.

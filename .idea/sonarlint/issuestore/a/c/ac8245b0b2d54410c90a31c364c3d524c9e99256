@@ -1,7 +1,7 @@
 
-f
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ÍÛ‚Ü
 j
 java:S1104"TMake position a static final constant or non-public and provide accessors if needed.(øÃ´
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
 c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÏĞ‹Ïúÿÿÿÿ
-N	java:S1069"9Replace this use of System.out or System.err by a logger.(ÍÛ‚Ü

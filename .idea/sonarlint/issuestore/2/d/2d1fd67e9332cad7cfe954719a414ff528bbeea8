@@ -1,0 +1,18 @@
+
+:
+java:S1118"Hide this public constructor.(Úìš—8Ä¬­Ä.
+I
+java:S1481(",Remove this unused "primary" local variable.(…¡Èş8Ä¬­Ä.
+U
+java:S1854*"8Remove this useless assignment to local variable "aux2".(¾¶õÄ8Ä¬­Ä.
+K
+java:S1481)")Remove this unused "aux1" local variable.(ÂÇ‘¨úÿÿÿÿ8ı–®Ä.
+A
+java:S1640"Convert this Map to an EnumMap.(Ñ³³¸úÿÿÿÿ8˜åú€Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó«—üÿÿÿÿ8‰÷€Ä.
+Z
+java:S1854)"8Remove this useless assignment to local variable "aux1".(ÂÇ‘¨úÿÿÿÿ8Ä¬­Ä.
+F
+java:S1481*")Remove this unused "aux2" local variable.(¾¶õÄ8ı–®Ä.
+X
+java:S1854(";Remove this useless assignment to local variable "primary".(…¡Èş8Ä¬­Ä.

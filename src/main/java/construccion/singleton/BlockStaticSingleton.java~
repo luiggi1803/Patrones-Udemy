@@ -5,7 +5,7 @@ import java.nio.file.Files;
 class StaticBlockSingleton {
 
     private StaticBlockSingleton() throws Exception {
-        System.out.println("construccion.Singleton is initializing");
+        System.out.println("Singleton is initializing");
         Files.createTempFile(".", ".");
     }
 

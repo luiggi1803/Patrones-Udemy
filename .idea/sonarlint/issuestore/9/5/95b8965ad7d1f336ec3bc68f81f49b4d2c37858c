@@ -1,0 +1,9 @@
+
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(œşëÿÿÿÿÿ8Ğº²€Ä.
+Y
+java:S3066"<Lower the visibility of this setter or remove it altogether.(ôºŞİ8ÖÜ €Ä.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(…ßœ¥şÿÿÿÿ8›¨¥€Ä.
+b	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Îûªû8›¨¥€Ä.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(½öÌøÿÿÿÿ8›¨¥€Ä.
+H
+java:S10756"&Remove this hard-coded path-delimiter.(ÉˆÑÅşÿÿÿÿ8ı¿­€Ä.
