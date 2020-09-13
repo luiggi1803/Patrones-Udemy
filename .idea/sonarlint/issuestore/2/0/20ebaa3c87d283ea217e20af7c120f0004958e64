@@ -1,0 +1,11 @@
+
+G
+java:S4738"*Use "java.util.function.Function" instead.(ø°³8¡¿Á…Ç.
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(¤Ö–=8³ïÉ…Ç.
+Q
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¡¿Á…Ç.
+I
+java:S1068",Remove this unused "fullName" private field.(—ÿø8¡¿Á…Ç.
+I
+java:S1612"",Replace this lambda with a method reference.(Ó¡éë8¡¿Á…Ç.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¶¿‹€8é€Ê…Ç.

@@ -1,0 +1,15 @@
+
+u
+java:S1104"SMake defense a static final constant or non-public and provide accessors if needed.(«ƒάλύÿÿÿÿ8Φ»θ¨Θ.
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(…›ά8ÿ‘©Θ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(Υ¶½•8φ¦ω¨Θ.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ψ•Ό8σ–»©Θ.
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(‡µύÿÿÿÿ8ξ„©Θ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ωΫΛ³
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(θΜ‰ÿÿÿÿÿ8α”‰©Θ.
+o
+java:S1104"RMake attack a static final constant or non-public and provide accessors if needed.(ο΅²χ8Φ»θ¨Θ.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( ώΝΎ8β­η¨Θ.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(…›ά8¤Υ†©Θ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ιδÒά8Ί €©Θ.
