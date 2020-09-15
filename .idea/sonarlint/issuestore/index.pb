@@ -95,3 +95,11 @@ v
 Fsrc/main/java/comportamiento/chainOfResposability/MethodChainDemo.java,f\7\f7124ce196d9ca5bc656fbb8a79aa88bec22e7d2
 v
 Fsrc/main/java/comportamiento/chainOfResposability/BrokerChainDemo.java,3\d\3d76ac2fa793093404dc54819d588da4557c8df8
+p
+@src/test/java/comportamiento/chainOfResponsability/Evaluate.java,8\3\83287fb6b06330a4ae0e2118f067b3753123038e
+e
+5src/main/java/comportamiento/command/CommandDemo.java,c\3\c387e29b05b9477819ac65ea5ea20752793920a9
+b
+2src/test/java/comportamiento/command/Evaluate.java,6\2\62721f06f3d6e05876c9be5a1bb5126b80d3b341
+h
+8src/main/java/comportamiento/interpreter/LexingDemo.java,6\5\65d20e0a006bc0ee2208880473e7d345b6a3e36b
