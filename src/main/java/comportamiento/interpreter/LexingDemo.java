@@ -4,6 +4,49 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+interface Element {
+
+    int eval();
+}
+
+class Integer implements Element {
+
+    private int value;
+
+    public Integer(int value) {
+        this.value = value;
+    }
+
+    @Override
+    public int eval() {
+        return value;
+    }
+}
+
+class BinaryOperation implements Element {
+
+    public enum Type {
+        ADDITION, SUBTRACTION
+    }
+
+    public Type type;
+    public Element left;
+    public Element right;
+
+    @Override
+    public int eval() {
+
+        switch (type) {
+            case ADDITION:
+                return left.eval() + right.eval();
+            case SUBTRACTION:
+                return left.eval() - right.eval();
+            default:
+                return 0;
+        }
+    }
+}
+
 class Token {
     public enum Type {
         INTEGER, PLUS, MINUS, LPAREN, RPAREN
@@ -62,11 +105,56 @@ public class LexingDemo {
         return result;
     }
 
+    static Element parse(List<Token> tokens) {
+        BinaryOperation result = new BinaryOperation();
+        boolean haveLHS = false;
+
+        for (int i = 0; i < tokens.size(); ++i) {
+            Token token = tokens.get(i);
+
+            switch (token.type) {
+                case INTEGER:
+                    Integer integer = new Integer(java.lang.Integer.parseInt(token.text));
+                    if (!haveLHS) {
+                        result.left = integer;
+                        haveLHS = true;
+                    } else {
+                        result.right = integer;
+                    }
+                    break;
+                case PLUS:
+                    result.type = BinaryOperation.Type.ADDITION;
+                    break;
+                case MINUS:
+                    result.type = BinaryOperation.Type.SUBTRACTION;
+                    break;
+                case LPAREN:
+                    int j = i; //location RPAREN
+                    for (; j < tokens.size(); ++j)
+                        if (tokens.get(j).type == Token.Type.RPAREN)
+                            break;
+
+                    List<Token> subExpresion =
+                            tokens.stream().skip(i + 1).limit(j - i - 1).collect(Collectors.toList());
+                    Element element = parse(subExpresion);
+                    if (!haveLHS) {
+                        result.left = element;
+                        haveLHS = true;
+                    } else result.right = element;
+                    i = j;
+                    break;
+            }
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
-        String input = "(13+4)-(12+1)";
+        String input = "(13+17)-(12+1)";
         List<Token> tokens = lex(input);
         System.out.println(tokens.stream().map(x -> x.toString()).collect(Collectors.joining("\t")));
 
+        Element parsed = parse(tokens);
+        System.out.println(input + "=" + parsed.eval());
 
     }
 }
