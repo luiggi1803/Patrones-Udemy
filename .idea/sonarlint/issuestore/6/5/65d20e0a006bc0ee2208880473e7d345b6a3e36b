@@ -1,24 +1,24 @@
 
-y	java:S127^"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ8ÏÅğ¥É.
-s
-java:S1104""QMake right a static final constant or non-public and provide accessors if needed.(‡©à‡øÿÿÿÿ8Ô´ğ¥É.
-c
-java:S2184Š"@Cast one of the operands of this addition operation to a "long".(ıÖ Æúÿÿÿÿ8µ™¦É.
-[	java:S106š"9Replace this use of System.out or System.err by a logger.(ƒû×«øÿÿÿÿ8÷…¦É.
-O
-java:S1612š",Replace this lambda with a method reference.(ƒû×«øÿÿÿÿ8÷…¦É.
-t	java:S131s"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶¸‹r8¹ÒŒ¦É.
-[	java:S106"9Replace this use of System.out or System.err by a logger.(…µÿÿÿÿÿ8Ïå¦¦É.
-r
-java:S11047"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8Ã¥şÈ.
 m
 java:S1104!"PMake left a static final constant or non-public and provide accessors if needed.(Í›’8‹Ğï¥É.
-u	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8õ‰ ¦É.
-r
-java:S11048"PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ8ÏÅğ¥É.
-t
-java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(óŒŞÿùÿÿÿÿ8š·¦É.
-r
-java:S1104 "PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8¼Éî¥É.
+O
+java:S1612š",Replace this lambda with a method reference.(ƒû×«øÿÿÿÿ8÷…¦É.
+[	java:S106š"9Replace this use of System.out or System.err by a logger.(ƒû×«øÿÿÿÿ8÷…¦É.
 f
 java:S2184Š"CCast one of the operands of this subtraction operation to a "long".(ıÖ Æúÿÿÿÿ8İÎ¯¦É.
+r
+java:S11047"PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8Ã¥şÈ.
+r
+java:S11048"PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ8ÏÅğ¥É.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(…µÿÿÿÿÿ8Ïå¦¦É.
+c
+java:S2184Š"@Cast one of the operands of this addition operation to a "long".(ıÖ Æúÿÿÿÿ8µ™¦É.
+t
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(óŒŞÿùÿÿÿÿ8š·¦É.
+y	java:S127^"XRefactor the code in order to not assign to this loop counter from within the loop body.(°ñÆõşÿÿÿÿ8ÏÅğ¥É.
+t	java:S131s"YComplete cases by adding the missing enum constants or add a default case to this switch.(¶¸‹r8¹ÒŒ¦É.
+u	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµĞ·8õ‰ ¦É.
+r
+java:S1104 "PMake type a static final constant or non-public and provide accessors if needed.(±§¦şÿÿÿÿ8¼Éî¥É.
+s
+java:S1104""QMake right a static final constant or non-public and provide accessors if needed.(‡©à‡øÿÿÿÿ8Ô´ğ¥É.

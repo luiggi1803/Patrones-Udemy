@@ -105,3 +105,15 @@ h
 8src/main/java/comportamiento/interpreter/LexingDemo.java,6\5\65d20e0a006bc0ee2208880473e7d345b6a3e36b
 f
 6src/test/java/comportamiento/interpreter/Evaluate.java,3\d\3dde7d8c7679604f689b85bee39485e79d2624cc
+_
+/src/main/java/comportamiento/iterator/Demo.java,8\d\8d08990c0246c4d0d7c47c0c8d539a89cdcd7b7c
+t
+Dsrc/main/java/comportamiento/iterator/ArrayBackedPropertiesDemo.java,7\6\76ce6615e1dcb482cbf7e77f99378b653beb15b8
+c
+3src/test/java/comportamiento/iterator/Evaluate.java,5\2\52ef582d3909df042aa1b8b6cf20ef60f2f50d15
+g
+7src/main/java/comportamiento/mediator/ChatRoomDemo.java,2\6\260f52b236125f8ec837a99d979945d06d4a2d33
+l
+<src/main/java/comportamiento/mediator/RxEventBrokerDemo.java,f\9\f9ca8686dc2e7bd177b55915bf1347f0f3601b1a
+c
+3src/test/java/comportamiento/mediator/Evaluate.java,5\f\5fc657b52e3b60f75a5feabfea82163f395bb85b
