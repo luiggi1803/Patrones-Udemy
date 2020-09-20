@@ -117,3 +117,15 @@ l
 <src/main/java/comportamiento/mediator/RxEventBrokerDemo.java,f\9\f9ca8686dc2e7bd177b55915bf1347f0f3601b1a
 c
 3src/test/java/comportamiento/mediator/Evaluate.java,5\f\5fc657b52e3b60f75a5feabfea82163f395bb85b
+e
+5src/main/java/comportamiento/memento/MementoDemo.java,f\b\fb748a04870b04c4e60760db87930699c2c305b8
+b
+2src/test/java/comportamiento/memento/Evaluate.java,6\7\67865eacdf9faf159d6ab519ed89fdccced61e6f
+k
+;src/main/java/comportamiento/nullObject/NullObjectDemo.java,3\1\31fee2c9b1e8a8e6a4c4ec29d0963459af7084e1
+e
+5src/test/java/comportamiento/nullObject/Evaluate.java,e\c\ecb6b7ddff319bf630ed4beb4f453711e0da24b2
+u
+Esrc/main/java/comportamiento/observer/ObserverInfrastructureDemo.java,4\9\499245ec5c48e3ea8b0d5680f63be7f6b8d3a2c7
+m
+=src/main/java/comportamiento/observer/HandmadeEventsDemo.java,8\f\8fbd2ac0a4de0d7765da3c46c250c47a8bb4a5d3

@@ -1,0 +1,11 @@
+
+N
+java:S1602T",Remove useless curly braces around statement(òƒ×ıÿÿÿÿ8Úˆ£ÌÊ.
+t
+java:S1104'"RMake source a static final constant or non-public and provide accessors if needed.(û¶ğ¸ÿÿÿÿÿ8Úˆ£ÌÊ.
+u
+java:S1104("XMake propertyName a static final constant or non-public and provide accessors if needed.(ËÇêã8Úˆ£ÌÊ.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(·Ôåèùÿÿÿÿ8Úˆ£ÌÊ.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ÒŞŒ¨ıÿÿÿÿ8Úˆ£ÌÊ.
+}
+java:S11042"[Make propertyChanged a static final constant or non-public and provide accessors if needed.(Åßˆµıÿÿÿÿ8Úˆ£ÌÊ.
